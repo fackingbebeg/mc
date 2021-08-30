@@ -1,0 +1,36 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 36.77.159.140
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1626596078275
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1626598262942
+  login: 1626595716658
+money: '0'
+last-account-name: brotherwood
+lastlocation:
+  world: f8244e9d-1dc6-4643-a7dd-7bf60f6d9b03
+  x: -73.5
+  y: 63.0
+  z: 71.5
+  yaw: -107.99986267089844
+  pitch: -2.8500006198883057
+logoutlocation:
+  world: f8244e9d-1dc6-4643-a7dd-7bf60f6d9b03
+  x: -17.571238207904212
+  y: 65.0
+  z: 69.43272682724545
+  yaw: -128.4300537109375
+  pitch: 12.751565933227539

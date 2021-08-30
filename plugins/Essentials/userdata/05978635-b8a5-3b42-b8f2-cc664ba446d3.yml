@@ -1,0 +1,29 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 202.80.215.40
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1627374636454
+  login: 1627370086510
+money: '0'
+last-account-name: Llama98
+logoutlocation:
+  world: f8244e9d-1dc6-4643-a7dd-7bf60f6d9b03
+  x: -346.69699368132814
+  y: 63.0
+  z: 31.985812902489194
+  yaw: -96.15007019042969
+  pitch: 13.649993896484375

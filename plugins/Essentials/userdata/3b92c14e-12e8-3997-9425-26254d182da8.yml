@@ -1,0 +1,36 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 180.244.135.254
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1627526497526
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1627737464207
+  login: 1627737409810
+money: '0'
+last-account-name: GaryThy
+lastlocation:
+  world: 6c0b8e13-7fe5-494a-89ec-d539f188501b
+  x: 202.58672488383328
+  y: 1.0
+  z: -19.19764211545812
+  yaw: 122.84844970703125
+  pitch: 39.45032501220703
+logoutlocation:
+  world: f8244e9d-1dc6-4643-a7dd-7bf60f6d9b03
+  x: -15.419376208568185
+  y: 65.0
+  z: 71.24414227818531
+  yaw: -6.45037841796875
+  pitch: 15.300027847290039

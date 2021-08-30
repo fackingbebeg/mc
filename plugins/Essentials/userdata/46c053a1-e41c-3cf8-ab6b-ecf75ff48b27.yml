@@ -1,0 +1,44 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 125.161.28.241
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1627838031327
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1627838044304
+  login: 1627837679389
+money: '0'
+last-account-name: Naels
+lastlocation:
+  world: f8244e9d-1dc6-4643-a7dd-7bf60f6d9b03
+  x: 46.539879253190435
+  y: 45.0
+  z: 54.40506954050721
+  yaw: 87.930419921875
+  pitch: 6.450056552886963
+logoutlocation:
+  world: f8244e9d-1dc6-4643-a7dd-7bf60f6d9b03
+  x: -38.734414913526784
+  y: 58.0
+  z: 110.33921062402031
+  yaw: -4.164091110229492
+  pitch: 11.250009536743164
+homes:
+  home:
+    world: f8244e9d-1dc6-4643-a7dd-7bf60f6d9b03
+    x: -39.84846497865035
+    y: 58.0
+    z: 113.78430077390692
+    yaw: -0.564239501953125
+    pitch: 7.800047874450684

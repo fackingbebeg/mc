@@ -1,0 +1,36 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 36.78.87.159
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1626771111259
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1626771188570
+  login: 1626759609380
+money: '0'
+last-account-name: Miauwaug
+lastlocation:
+  world: f8244e9d-1dc6-4643-a7dd-7bf60f6d9b03
+  x: -40.86358603044603
+  y: 57.0
+  z: 312.6830433236896
+  yaw: 62.8651123046875
+  pitch: 7.799975872039795
+logoutlocation:
+  world: f8244e9d-1dc6-4643-a7dd-7bf60f6d9b03
+  x: -98.3284426899368
+  y: 63.0
+  z: 99.53047941247965
+  yaw: -130.35012817382812
+  pitch: 21.149940490722656

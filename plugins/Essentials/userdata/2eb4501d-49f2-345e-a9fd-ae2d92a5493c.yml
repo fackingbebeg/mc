@@ -1,0 +1,36 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 36.78.87.159
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1626702089343
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1626702103324
+  login: 1626699495878
+money: '0'
+last-account-name: Kekoy
+logoutlocation:
+  world: f8244e9d-1dc6-4643-a7dd-7bf60f6d9b03
+  x: 1.825708751238224
+  y: 63.0
+  z: 184.69999998807907
+  yaw: -176.09982299804688
+  pitch: 11.699990272521973
+lastlocation:
+  world: f8244e9d-1dc6-4643-a7dd-7bf60f6d9b03
+  x: 301.30000001192093
+  y: 7.0
+  z: 239.08142657784163
+  yaw: 44.406494140625
+  pitch: 6.6001811027526855

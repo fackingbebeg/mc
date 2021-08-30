@@ -1,0 +1,44 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 140.213.19.90
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1627285747848
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1627286296855
+  login: 1627284777949
+money: '35.00'
+last-account-name: draay
+lastlocation:
+  world: f8244e9d-1dc6-4643-a7dd-7bf60f6d9b03
+  x: -2263.713816794026
+  y: 61.28776038128104
+  z: 4073.808084212973
+  yaw: 106.50732421875
+  pitch: 13.80016803741455
+homes:
+  home:
+    world: f8244e9d-1dc6-4643-a7dd-7bf60f6d9b03
+    x: -0.6820359971329181
+    y: 62.0
+    z: 111.68240445322637
+    yaw: -154.80006408691406
+    pitch: 7.049940586090088
+logoutlocation:
+  world: f8244e9d-1dc6-4643-a7dd-7bf60f6d9b03
+  x: -4.236355099668988
+  y: 44.0
+  z: 102.30000001192093
+  yaw: -3.901885986328125
+  pitch: 12.900115013122559

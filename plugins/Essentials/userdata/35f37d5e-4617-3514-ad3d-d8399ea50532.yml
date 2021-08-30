@@ -1,0 +1,44 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 114.142.173.32
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1627103306280
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1627103412357
+  login: 1627102721137
+money: '0.00'
+last-account-name: Falskim
+logoutlocation:
+  world: f8244e9d-1dc6-4643-a7dd-7bf60f6d9b03
+  x: -34.93978821084673
+  y: 65.0
+  z: 89.67182746473847
+  yaw: 130.026123046875
+  pitch: 21.843767166137695
+lastlocation:
+  world: f8244e9d-1dc6-4643-a7dd-7bf60f6d9b03
+  x: -233.6809912413766
+  y: 13.0
+  z: 522.2364982192134
+  yaw: 88.324462890625
+  pitch: 19.921310424804688
+homes:
+  home:
+    world: f8244e9d-1dc6-4643-a7dd-7bf60f6d9b03
+    x: -36.5
+    y: 64.0
+    z: 89.5
+    yaw: -149.56146240234375
+    pitch: 28.10146141052246

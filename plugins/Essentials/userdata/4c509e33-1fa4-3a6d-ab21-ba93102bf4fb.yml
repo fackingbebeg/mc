@@ -1,0 +1,44 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 128.199.100.172
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1626525934578
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1626526490685
+  login: 1626525643789
+money: '0'
+last-account-name: pepeg
+homes:
+  1sthome:
+    world: f8244e9d-1dc6-4643-a7dd-7bf60f6d9b03
+    x: -70.58052552638495
+    y: 64.0
+    z: 111.03766586966428
+    yaw: -166.70138549804688
+    pitch: 15.450061798095703
+logoutlocation:
+  world: f8244e9d-1dc6-4643-a7dd-7bf60f6d9b03
+  x: -83.54335791121811
+  y: 65.0
+  z: 234.66729324600084
+  yaw: 173.99996948242188
+  pitch: -89.8499984741211
+lastlocation:
+  world: f8244e9d-1dc6-4643-a7dd-7bf60f6d9b03
+  x: -579.7257606592226
+  y: 72.0
+  z: 817.4884615685783
+  yaw: 66.71859741210938
+  pitch: 13.24487590789795

@@ -1,0 +1,44 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 180.244.136.25
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1627393808119
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1627393810908
+  login: 1627393619105
+money: '82.50'
+last-account-name: Zul
+logoutlocation:
+  world: f8244e9d-1dc6-4643-a7dd-7bf60f6d9b03
+  x: -48.5
+  y: 61.0
+  z: 302.5
+  yaw: 32.85000991821289
+  pitch: 15.150001525878906
+homes:
+  home:
+    world: f8244e9d-1dc6-4643-a7dd-7bf60f6d9b03
+    x: -48.35706259299623
+    y: 61.0
+    z: 302.1533627287078
+    yaw: 32.85000991821289
+    pitch: 15.150001525878906
+lastlocation:
+  world: f8244e9d-1dc6-4643-a7dd-7bf60f6d9b03
+  x: 7.386315304737354
+  y: 52.0
+  z: 266.2141508875375
+  yaw: 47.40185546875
+  pitch: 42.000186920166016

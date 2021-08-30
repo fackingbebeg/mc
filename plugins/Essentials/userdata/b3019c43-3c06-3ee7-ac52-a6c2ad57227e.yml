@@ -1,0 +1,36 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 36.74.41.16
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1628603688690
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1628604113972
+  login: 1628603654277
+money: '10'
+last-account-name: Keysa lle hanafi
+lastlocation:
+  world: f8244e9d-1dc6-4643-a7dd-7bf60f6d9b03
+  x: 6.192508000625746
+  y: 63.0
+  z: 102.79271621644091
+  yaw: 109.20710754394531
+  pitch: 23.999956130981445
+logoutlocation:
+  world: f8244e9d-1dc6-4643-a7dd-7bf60f6d9b03
+  x: -36.0675917564168
+  y: 64.0
+  z: 87.01574667150105
+  yaw: -8.999539375305176
+  pitch: -37.64991760253906
